@@ -89,7 +89,7 @@ streamlit run customer_segmentation_ui.py
 ## Live Demo
 
 **Streamlit App:**
-https://github.com/harshasrivastav1/AI-Customer-Segmentation
+(https://harsha-customer-segmentation.streamlit.app/)
 
 ## Project Objective
 
